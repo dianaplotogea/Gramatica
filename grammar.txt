@@ -1,0 +1,4 @@
+VN: SA
+VT: ab0
+S: S
+P: S -> abS|aSAb|aA, A -> ab|aS|0
